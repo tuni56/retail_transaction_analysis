@@ -1,6 +1,6 @@
 # 🛍️ Retail Market Basket Analysis with Apriori
 
-![Retail Analysis](https://source.unsplash.com/1000x400/?shopping,data)
+
 
 ## 📌 Overview
 Discover purchasing patterns and optimize product recommendations using the **Apriori algorithm**! This project analyzes retail transactions to identify frequently bought-together items and generate personalized suggestions for customers.
