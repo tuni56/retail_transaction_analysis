@@ -57,7 +57,6 @@ Want to improve this project? Fork it, create a branch, and submit a PR! 🤝
 ## 📬 Contact
 📧 **Email:** tunidev56@gmail.com
 🔗 **LinkedIn:** https://linkedin.com/in/rociobaigorria
-📂 **Portfolio:** https://tuni56.netlify.app/  
 
 ---
 
